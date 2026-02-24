@@ -15,6 +15,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "jsonpath-plus": "^10.3.0"
+    "jsonpath-plus": "^10.3.0",
+    "exceljs": "^4.4.0"
   }
 }
