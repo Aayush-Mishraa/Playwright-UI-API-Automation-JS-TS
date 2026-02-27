@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test":"npx playwright test tests/WebAPIOopsPart1.spec.js --headed"
+    "test": "npx playwright test tests/WebAPIOopsPart1.spec.js --headed"
   },
   "keywords": [],
   "author": "",
@@ -12,10 +12,12 @@
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.2.2",
+    "@types/xlsx": "^0.0.35",
     "typescript": "^5.9.3"
   },
   "dependencies": {
+    "exceljs": "^4.4.0",
     "jsonpath-plus": "^10.3.0",
-    "exceljs": "^4.4.0"
+    "xlsx": "^0.18.5"
   }
 }

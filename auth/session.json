@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "OCSESSID",
+      "value": "cd811f3020b6610f3336693330",
+      "domain": "aayushmishra.tech",
+      "path": "/ecommerceautomation/",
+      "expires": 1772251176.426725,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "currency",
+      "value": "USD",
+      "domain": "aayushmishra.tech",
+      "path": "/",
+      "expires": 1774756776.426813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
